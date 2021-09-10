@@ -1,0 +1,4 @@
+Add images for div("Gallery")
+
+
+fix black bar on bottom screen
